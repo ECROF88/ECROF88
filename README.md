@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ECROF88&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ECROF88&theme=github-compact&hide_border=true&area=true" />
 <p align="center"><img src="https://profile-counter.glitch.me/ECROF88/count.svg" alt="ECROF88 :: Visitor's Count" /></p>
