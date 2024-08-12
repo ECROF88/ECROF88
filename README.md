@@ -1,8 +1,9 @@
-### Hi there 👋
+### ECROF88
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=CodeNewRoman+&weight=600&duration=8000&pause=200&width=435&lines=It's+for+me.;How+are+you+%3F)](https://git.io/typing-svg)
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ECROF88&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECROF88&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <div></div>
-<p align="center"><img src="https://profile-counter.glitch.me/ECROF88/count.svg" alt="ECROF88 :: Visitor's Count" /></p>
+
 
 <!--
 **ECROF88/ECROF88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ECROF88&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ECROF88&theme=github-compact&hide_border=true&area=true" />
+<p align="center"><img src="https://profile-counter.glitch.me/ECROF88/count.svg" alt="ECROF88 :: Visitor's Count" /></p>
