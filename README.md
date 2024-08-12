@@ -1,7 +1,7 @@
 ### ECROF88
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=CodeNewRoman+&weight=600&duration=8000&pause=200&width=435&lines=It's+for+me.;How+are+you+%3F)](https://git.io/typing-svg)
 <div align="center"> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=ECROF88&hide_title=true&hide_border=true&show_icons=trueline_height=26&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=transparent" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECROF88&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color&=	#00E5EE&theme=transparent" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECROF88&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=	#00E5EE&theme=transparent" /> </div>
 
 
 
