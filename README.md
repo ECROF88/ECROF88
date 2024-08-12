@@ -1,6 +1,6 @@
 ### ECROF88
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=CodeNewRoman+&weight=600&duration=8000&pause=200&width=435&lines=It's+for+me.;How+are+you+%3F)](https://git.io/typing-svg)
-<div align="center"> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=ECROF88&hide_title=true&hide_border=true&show_icons=trueline_height=26&text_color=000&icon_color=000&theme=tokyonight" /> </div>
+<div align="center"> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=ECROF88&hide_title=true&hide_border=true&show_icons=trueline_height=26&text_color=0077CC&icon_color=000&theme=tokyonight" /> </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECROF88&layout=compact&theme=tokyonight" alt="Top Languages Card">
 </p>
