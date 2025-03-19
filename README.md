@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ECROF88&theme=github-compact&hide_border=true&area=true" />
 <p align="center"><img src="https://profile-counter.glitch.me/ECROF88/count.svg" alt="ECROF88 :: Visitor's Count" /></p>
-[![ECROF88's GitHub stats](https://github-readme-stats.vercel.app/api?username=ECROF88)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ECROF88's GitHub stats](https://github-readme-stats.vercel.app/api?username=ECROF88)]
+
